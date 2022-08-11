@@ -1,2 +1,3 @@
-# alexandersevert.github.io
-Github Portfolio Website
+# Alexander Severt
+
+## Project #1 - Titanic Prediction Model
